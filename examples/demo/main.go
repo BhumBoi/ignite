@@ -2,5 +2,5 @@
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from Ignite 🔥")
+	fmt.Println("🔥 Hello from Ignite")
 }
